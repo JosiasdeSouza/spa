@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JosiasdeSouza.io/spa/static/css/main.dc3f1e1e.css",
+    "main.js": "/JosiasdeSouza.io/spa/static/js/main.378ee167.js",
+    "index.html": "/JosiasdeSouza.io/spa/index.html",
+    "main.dc3f1e1e.css.map": "/JosiasdeSouza.io/spa/static/css/main.dc3f1e1e.css.map",
+    "main.378ee167.js.map": "/JosiasdeSouza.io/spa/static/js/main.378ee167.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc3f1e1e.css",
+    "static/js/main.378ee167.js"
+  ]
+}
