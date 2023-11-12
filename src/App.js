@@ -5,7 +5,7 @@ import { Contact } from "./pages/Contact";
 import { PageNotFound } from "./pages/PageNotFound";
 import Navbar from "./pages/Navbar";
 import Footer from "./pages/Footer";
-import './App.css';
+import '.src/App.css';
 
 
 function App() {
