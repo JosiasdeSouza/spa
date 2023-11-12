@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "homepage": "https://josiasdesouza.github.io/spa/",
-=======
-  "homepage": "https://github.io/josiasdesouza/spa/",
->>>>>>> fdcafd8b3e62a0bf5bfb5b03f9eb5da0d5d60b08
   "name": "spa",
   "version": "0.1.0",
   "private": true,
